@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boggy</h1>
-<h3 align="center">An aspiring developer from the United Kingdom</h3>
+<h3 align="center">A software developer from the United Kingdom</h3>
 <br>
 
 - 🔭 I’m currently working on [MarvelRivals-DMA](https://github.com/boggymc/MarvelRivals-DMA)
