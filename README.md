@@ -1,9 +1,40 @@
-<h1 align="center">Hi👋, I'm Boggy</h1>
-<h3 align="center">A software developer from the United Kingdom</h3>
+<div align="center">
+  <h1>Hi, I'm Boggy👋</h1>
+  <p>I build software, work on Minecraft server infrastructure, and mess around with anticheats.</p>
+  <p>most of my work revolves around Java, Minecraft server software, and low-level systems.</p>
+</div>
+
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br>
+### notable projects
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=boggymc&repo=boggymc&countColor=%23ff9830)
+<table>
+  <tr>
+    <td><a href="https://github.com/boggymc/PetalAntiFreecam"><strong>PetalAntiFreecam</strong></a></td>
+    <td>Preventing Minecraft freecam cheats by hiding deep chunks in packets</td>
+  </tr>
+      <tr>
+    <td><a href="https://dsc.gg/petalfork"><strong>Petal</strong></a></td>
+    <td>A fork of Canvas/Folia with major performance optimisations and QoL improvements</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/boggymc/MarvelRivals-DMA"><strong>MarvelRivals-DMA</strong></a></td>
+    <td>Exploring optimisation, caching, and batching with direct memory access cards in C++</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/boggymc/ShieldFixes"><strong>ShieldFixes</strong></a></td>
+    <td>Fixing Minecraft shield animation and sound bugs server-side</td>
+  </tr>
+</table>
+
+### technologies
+
+`Java` · `C++` · `C#` · `Python` · `SQL` · `Linux`
+
+---
+
+<div align="center">
+
+<sub>building things, but mostly breaking things</sub>
+
+</div>
